@@ -1,0 +1,16 @@
+C:\Users\vthammannagari\AppData\Local\Temporary Projects\compare Images\bin\Debug\compare Images.exe.config
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\compare Images.exe.config
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\compare Images.exe
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\compare Images.pdb
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\obj\Debug\compare Images.csprojResolveAssemblyReference.cache
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\obj\Debug\compare_Images.compareImages.resources
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\obj\Debug\compare_Images.Properties.Resources.resources
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\obj\Debug\compare Images.csproj.GenerateResource.Cache
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\obj\Debug\compare Images.exe
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\obj\Debug\compare Images.pdb
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\AForge.dll
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\AForge.Imaging.dll
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\AForge.Math.dll
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\AForge.xml
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\AForge.Imaging.xml
+C:\Users\vthammannagari\Documents\Visual Studio 2015\Projects\compare Images\compare Images\bin\Debug\AForge.Math.xml
