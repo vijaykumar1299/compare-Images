@@ -87,13 +87,13 @@ namespace compare_Images
             Bitmap smallImage = new Bitmap(smallFileName);
            
             string msg = "";
-            ExhaustiveTemplateMatching tm = new ExhaustiveTemplateMatching(0.9f);
-            TemplateMatch[] matches = tm.ProcessImage(largeImage, smallImage);
-
-            if (matches.Length > 0)
+            List<string> rowSub = getRows(smallImage);
+            List<string> rowMain = getRows(largeImage);
+           
+            if (isSubset(rowSub,rowMain))
             {
-                TemplateMatch match = matches[0];
-                msg = "Match found at X:" + match.Rectangle.Location.X + " ; Match found at Y :" + match.Rectangle.Location.Y + ";";
+
+                msg = "small Image is part of the large Image";
             }
             else {
                 msg = "small Image is not part of Large Image";
